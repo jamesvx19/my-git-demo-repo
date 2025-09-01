@@ -18,7 +18,7 @@ ${BROWSER}                          firefox
 *** Test Cases ***
 Should be able to access "Team" page
     [Documentation]                 This is test 1
-    [Tags]                          test1
+    [Tags]                          test1    products
     FrontOfficeApp.Go to "Landing" Page     # he did not use " " for Landing page
     FrontOfficeApp.Go to "Team" Page
 

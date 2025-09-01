@@ -7,6 +7,7 @@ ${LANDING_NAVIGATION_ELEMENTS} =            id=mainNav
 *** Keywords ***
 Navigate to
     go to                                   ${URL}
+    wait until page contains    Some test to verify
 
 Verify Page Loaded
     wait until page contains element        ${LANDING_NAVIGATION_ELEMENTS}

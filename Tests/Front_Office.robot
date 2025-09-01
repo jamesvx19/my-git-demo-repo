@@ -24,7 +24,7 @@ Should be able to access "Team" page
 
 "Team" page should match requirements
     [Documentation]                 This is test 2
-    [Tags]                          test2
+    [Tags]                          test2  checkout
     FrontOfficeApp.Go to "Landing" Page
     FrontOfficeApp.Go to "Team" Page
     FrontOfficeApp.Validate "Team" Page

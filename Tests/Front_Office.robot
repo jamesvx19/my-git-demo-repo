@@ -29,6 +29,8 @@ Should be able to access "Team" page
     FrontOfficeApp.Go to "Team" Page
     FrontOfficeApp.Validate "Team" Page
 
+Feature 1 Test
+    Log    Doing feature 1
 
 
 

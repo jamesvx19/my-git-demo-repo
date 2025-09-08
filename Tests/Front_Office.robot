@@ -13,7 +13,7 @@ Test Teardown                       End Web Test
 
 *** Variables ***
 ${URL}                              https://automationplayground.com/front-office/
-${BROWSER}                          firefox
+${BROWSER}                          chrome
 
 *** Test Cases ***
 Should be able to access "Team" page
